@@ -1,0 +1,34 @@
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #d3d3d350;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.card-logo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.card-dados {
+  text-align: left;
+  margin: 15px 20px;
+}
+
+.card-contatos {
+  margin-top: 20px;
+}
+
+.card-contatos a {
+  margin-right: 20px;
+  opacity: 0.3;
+  transition: .3s ease-in-out;
+}
+
+.card-contatos a:hover {
+  margin-right: 20px;
+  opacity: 1;
+}
