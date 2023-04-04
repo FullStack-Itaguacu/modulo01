@@ -1,0 +1,15 @@
+.botao-ativo {
+    background-color: #31ed47;
+    color: #fff;
+    border: none;
+    padding: .5em;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 10);
+}
+
+.botao-inativo {
+    background-color: #c3c3c330;
+    color: #fff;
+    border: none;
+    padding: .5em;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 30);
+}

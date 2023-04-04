@@ -1,0 +1,32 @@
+.titulo {
+    color: #fff;
+}
+
+.botao {
+    padding: .5em;
+    color: #fff;
+    background-color: #96f751;
+}
+
+.botaoVermelho {
+    background: #f00;
+}
+
+.icon {
+    color: blue;
+    font-size: 3em;
+}
+
+
+
+/*
+    # unidades fixas
+    - px - pixel
+    - pt - pontos
+
+    # unidades dinâmicas
+    - %  porcentagem
+    - em - 16px
+    - rem - root
+    - in
+*/
